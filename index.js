@@ -53,7 +53,8 @@ module.exports = [
   'yeah',
   'yep',
   'yes',
-  'yessir'
+  'yessir',
+  'yup'
 ];
 
 
