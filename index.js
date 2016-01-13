@@ -49,6 +49,7 @@ module.exports = [
   'willingly',
   'without fail',
   'y',
+  'ya',
   'yea',
   'yeah',
   'yep',
