@@ -33,6 +33,7 @@ module.exports = [
   'most assuredly',
   'naturally',
   'of course',
+  'ok',
   'okay',
   'positively',
   'precisely',
@@ -55,5 +56,3 @@ module.exports = [
   'yes',
   'yessir'
 ];
-
-
