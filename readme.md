@@ -45,6 +45,7 @@ The following words are included in the exported array:
 * `most assuredly`
 * `naturally`
 * `of course`
+* `ok`
 * `okay`
 * `positively`
 * `precisely`
@@ -61,11 +62,13 @@ The following words are included in the exported array:
 * `willingly`
 * `without fail`
 * `y`
+* `ya`
 * `yea`
 * `yeah`
 * `yep`
 * `yes`
 * `yessir`
+* `yup`
 
 ## Adding words
 
