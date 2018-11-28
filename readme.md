@@ -20,6 +20,7 @@ var affirmative = require('affirmative');
 
 The following words are included in the exported array:
 
+* `'1'`
 * `absolutely`
 * `accept`
 * `accepted`
