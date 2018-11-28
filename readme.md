@@ -21,16 +21,36 @@ var affirmative = require('affirmative');
 The following words are included in the exported array:
 
 * `absolutely`
+* `accept`
+* `accepted`
+* `accurate`
+* `adequate`
+* `affirm`
 * `affirmative`
+* `agree`
+* `agreed`
 * `all right`
+* `alright`
 * `amen`
+* `approved`
+* `aver`
 * `aye`
 * `beyond a doubt`
 * `by all means`
 * `certainly`
+* `complied`
+* `consented`
+* `confirmed`
+* `correct`
+* `corroborated`
 * `definitely`
+* `depended`
+* `endorsed`
 * `even so`
 * `exactly`
+* `fact`
+* `factual`
+* `fair`
 * `fine`
 * `gladly`
 * `good enough`
@@ -40,23 +60,44 @@ The following words are included in the exported array:
 * `i concur`
 * `i guess`
 * `if you must`
+* `indeed`
 * `indubitably`
 * `just so`
+* `legitimate`
 * `most assuredly`
 * `naturally`
+* `normal`
 * `of course`
 * `ok`
 * `okay`
+* `okeydoke`
+* `pass`
+* `passed`
+* `perfect`
+* `permitted`
+* `positive`
 * `positively`
 * `precisely`
+* `pure`
+* `ratified`
+* `reaffirm`
+* `right`
 * `right on`
 * `righto`
+* `satisfied`
+* `satisfactory`
+* `support`
 * `sure thing`
 * `sure`
 * `surely`
+* `t`
 * `true`
+* `trusted`
+* `truth`
 * `undoubtedly`
 * `unquestionably`
+* `uphold`
+* `verity`
 * `very well`
 * `whatever`
 * `willingly`
@@ -68,6 +109,7 @@ The following words are included in the exported array:
 * `yep`
 * `yes`
 * `yessir`
+* `yo`
 * `yup`
 
 ## Adding words
