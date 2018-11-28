@@ -8,6 +8,7 @@
 'use strict';
 
 module.exports = [
+  '1',
   'absolutely',
   'accept',
   'accepted',
